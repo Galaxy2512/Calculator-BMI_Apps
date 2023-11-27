@@ -1,0 +1,5 @@
+First Number: 2.0, Second Number: 2.0, Calculation: Subtraction, Result: 0.0
+First Number: 2.0, Second Number: 2.0, Calculation: Subtraction, Result: 0.0
+First Number: 4.0, Second Number: 2.0, Calculation: Subtraction, Result: 2.0
+First Number: 4.0, Second Number: 2.0, Calculation: Subtraction, Result: 2.0
+

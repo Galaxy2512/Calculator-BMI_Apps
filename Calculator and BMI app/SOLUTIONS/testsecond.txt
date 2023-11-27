@@ -1,0 +1,4 @@
+Person{height=170.0, weight=71.0, category='Senior', bmi=0.0024567475}
+Person{height=176.0, weight=81.0, category='Senior', bmi=0.0026149277}
+Person{height=165.0, weight=55.0, category='Junior', bmi=0.002020202}
+Person{height=89.0, weight=20.0, category='Junior', bmi=0.0025249338}
